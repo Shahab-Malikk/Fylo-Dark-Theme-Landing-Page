@@ -313,6 +313,10 @@ blockquote {
     font-size: 120%;
 }
 
+.signup-button:hover {
+    opacity: .7;
+}
+
 .signup-input {
     padding: 15px 20px;
     margin-top: 15px;
